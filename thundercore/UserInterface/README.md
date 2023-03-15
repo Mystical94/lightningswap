@@ -1,6 +1,6 @@
 ## LightningSwap Interface
 
-An open source interface for LightningSwap -- a protocol for decentralized exchange on Fantom Network.
+An open source interface for LightningSwap -- a protocol for decentralized exchange on ThunderCore Network.
 
 Enabling users to:
 
@@ -15,7 +15,13 @@ Future Plans:
 
 Clone the repository
 
-move into the UserInterface Directory
+move into the thundercore directory
+
+```sh
+cd thundercore
+```
+
+then move into the UserInterface Directory
 
 ```sh
 cd UserInterface
