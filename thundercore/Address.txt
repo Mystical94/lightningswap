@@ -1,0 +1,7 @@
+### LightningSwap(chainId : 18)
+
+- Factory: 0xe7f7067c9ecab27c5f7f13e02b13ed50931f6d0f
+- Router: 0x90d4e9eb792602aa7a7506b477b878307c35e24a
+- Init_Code_hash: 0x66af19f1d0659d7b146fb119e808a80ac3d5cd0ed91292f9284ac048e0878537
+- WTT Address : 0x0c0d088a6fe7c65754d821eb94bce29c2cfb0d1d
+- Multicall contract Address : 0x3221ce4ade9a9564b34992a6d9dd35e38d3884c9
