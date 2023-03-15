@@ -20,8 +20,8 @@
 pragma solidity ^0.4.18;
 
 contract WETH9 {
-    string public name     = "Wrapped Fantom";
-    string public symbol   = "WFTM";
+    string public name     = "Wrapped Thunder Token";
+    string public symbol   = "WTT";
     uint8  public decimals = 18;
 
     event  Approval(address indexed src, address indexed guy, uint wad);
